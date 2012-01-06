@@ -1,0 +1,215 @@
+TplatformExpert
+v7
+r0
+t347510037.070132
+cCheck dependencies
+cCompileC build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/platformExpert/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/main.o /Users/acid/Dropbox/code/platformExpert/main.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/main.o /Users/acid/Dropbox/code/platformExpert/main.c normal ppc c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c00000000486499690000000000000942
+t1214552425
+s2370
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c00000000481BC12A0000000000010CC8
+t1209778474
+s68808
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004B760CCB000000000003D498
+t1266027723
+s251032
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004C23A0120000000000012048
+t1277403154
+s73800
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004CAA7405000000000003CE34
+t1286239237
+s249396
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E8E65FE000000000060E710
+t1317955070
+s6350608
+
+N/Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert
+t2
+s0
+
+N/Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert.dSYM
+t2
+s0
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/platformExpert
+t2
+s0
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/platformExpert.LinkFileList
+c000000004F065D93000000000000007B
+t1325817235
+s123
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/main.o
+t2
+s0
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/platformExpert
+t2
+s0
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/platformExpert.LinkFileList
+c000000004F065D93000000000000007A
+t1325817235
+s122
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/platformExpert
+t2
+s0
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/platformExpert.LinkFileList
+c000000004F065D93000000000000007D
+t1325817235
+s125
+
+N/Users/acid/Dropbox/code/platformExpert/main.c
+c000000004F065D8B0000000000000395
+t1325817227
+s917
+i<CoreFoundation/CoreFoundation.h>
+i<IOKit/IOKitLib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347510035#347510035#0(0"0(0#1#0"4541388096#0"0#
+
+CCompileC build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/main.o /Users/acid/Dropbox/code/platformExpert/main.c normal i386 c com.apple.compilers.gcc.4_2
+s347510035.403692
+e347510036.729166
+r0
+xCompileC
+xbuild/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/main.o
+x/Users/acid/Dropbox/code/platformExpert/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/acid/Dropbox/code/platformExpert/main.c: In function 'main':
+o/Users/acid/Dropbox/code/platformExpert/main.c:28: warning: format '%.2x' expects type 'unsigned int', but argument 2 has type 'UInt8 *'
+o/Users/acid/Dropbox/code/platformExpert/main.c:29: error: 'byte' undeclared (first use in this function)
+o/Users/acid/Dropbox/code/platformExpert/main.c:29: error: (Each undeclared identifier is reported only once
+o/Users/acid/Dropbox/code/platformExpert/main.c:29: error: for each function it appears in.)
+lSLF07#2@54"Compile /Users/acid/Dropbox/code/platformExpert/main.c347510035#347510036#0(510"/Users/acid/Dropbox/code/platformExpert/main.c: In function 'main':/Users/acid/Dropbox/code/platformExpert/main.c:28: warning: format '%.2x' expects type 'unsigned int', but argument 2 has type 'UInt8 *'/Users/acid/Dropbox/code/platformExpert/main.c:29: error: 'byte' undeclared (first use in this function)/Users/acid/Dropbox/code/platformExpert/main.c:29: error: (Each undeclared identifier is reported only once/Users/acid/Dropbox/code/platformExpert/main.c:29: error: for each function it appears in.)2(22@76"Format '%.2x' expects type 'unsigned int', but argument 2 has type 'UInt8 *'347510036#68#137#0(6@46"/Users/acid/Dropbox/code/platformExpert/main.c347510027#28#0#28#0#56"format '*' expects type '*', but argument * has type '*'0(4@46"'byte' undeclared (first use in this function)347510036#205#105#0(6@46"/Users/acid/Dropbox/code/platformExpert/main.c347510027#29#0#29#0#43"'*' undeclared (first use in this function)0(0#0#46"/Users/acid/Dropbox/code/platformExpert/main.c4541386384#1437"    cd /Users/acid/Dropbox/code/platformExpert    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-generated-files.hmap -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-own-target-headers.hmap -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-all-target-headers.hmap -iquote /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-project-headers.hmap -F/Users/acid/Dropbox/code/platformExpert/build/Release -I/Users/acid/Dropbox/code/platformExpert/build/Release/include -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/DerivedSources/i386 -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/DerivedSources -c /Users/acid/Dropbox/code/platformExpert/main.c -o /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/main.o1#
+
+CCompileC build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/main.o /Users/acid/Dropbox/code/platformExpert/main.c normal ppc c com.apple.compilers.gcc.4_2
+s347510036.665395
+e347510037.069971
+r0
+xCompileC
+xbuild/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/main.o
+x/Users/acid/Dropbox/code/platformExpert/main.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/acid/Dropbox/code/platformExpert/main.c: In function 'main':
+o/Users/acid/Dropbox/code/platformExpert/main.c:28: warning: format '%.2x' expects type 'unsigned int', but argument 2 has type 'UInt8 *'
+o/Users/acid/Dropbox/code/platformExpert/main.c:29: error: 'byte' undeclared (first use in this function)
+o/Users/acid/Dropbox/code/platformExpert/main.c:29: error: (Each undeclared identifier is reported only once
+o/Users/acid/Dropbox/code/platformExpert/main.c:29: error: for each function it appears in.)
+lSLF07#2@54"Compile /Users/acid/Dropbox/code/platformExpert/main.c347510036#347510037#0(510"/Users/acid/Dropbox/code/platformExpert/main.c: In function 'main':/Users/acid/Dropbox/code/platformExpert/main.c:28: warning: format '%.2x' expects type 'unsigned int', but argument 2 has type 'UInt8 *'/Users/acid/Dropbox/code/platformExpert/main.c:29: error: 'byte' undeclared (first use in this function)/Users/acid/Dropbox/code/platformExpert/main.c:29: error: (Each undeclared identifier is reported only once/Users/acid/Dropbox/code/platformExpert/main.c:29: error: for each function it appears in.)2(22@76"Format '%.2x' expects type 'unsigned int', but argument 2 has type 'UInt8 *'347510037#68#137#0(6@46"/Users/acid/Dropbox/code/platformExpert/main.c347510027#28#0#28#0#56"format '*' expects type '*', but argument * has type '*'0(4@46"'byte' undeclared (first use in this function)347510037#205#105#0(6@46"/Users/acid/Dropbox/code/platformExpert/main.c347510027#29#0#29#0#43"'*' undeclared (first use in this function)0(0#0#46"/Users/acid/Dropbox/code/platformExpert/main.c4541386384#1444"    cd /Users/acid/Dropbox/code/platformExpert    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-generated-files.hmap -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-own-target-headers.hmap -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-all-target-headers.hmap -iquote /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-project-headers.hmap -F/Users/acid/Dropbox/code/platformExpert/build/Release -I/Users/acid/Dropbox/code/platformExpert/build/Release/include -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/DerivedSources/ppc -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/DerivedSources -c /Users/acid/Dropbox/code/platformExpert/main.c -o /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/main.o1#
+
+CCompileC build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/platformExpert/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s347510035.391994
+e347510036.665257
+r0
+xCompileC
+xbuild/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/main.o
+x/Users/acid/Dropbox/code/platformExpert/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/acid/Dropbox/code/platformExpert/main.c: In function 'main':
+o/Users/acid/Dropbox/code/platformExpert/main.c:28: warning: format '%.2x' expects type 'unsigned int', but argument 2 has type 'UInt8 *'
+o/Users/acid/Dropbox/code/platformExpert/main.c:29: error: 'byte' undeclared (first use in this function)
+o/Users/acid/Dropbox/code/platformExpert/main.c:29: error: (Each undeclared identifier is reported only once
+o/Users/acid/Dropbox/code/platformExpert/main.c:29: error: for each function it appears in.)
+lSLF07#2@54"Compile /Users/acid/Dropbox/code/platformExpert/main.c347510035#347510036#0(510"/Users/acid/Dropbox/code/platformExpert/main.c: In function 'main':/Users/acid/Dropbox/code/platformExpert/main.c:28: warning: format '%.2x' expects type 'unsigned int', but argument 2 has type 'UInt8 *'/Users/acid/Dropbox/code/platformExpert/main.c:29: error: 'byte' undeclared (first use in this function)/Users/acid/Dropbox/code/platformExpert/main.c:29: error: (Each undeclared identifier is reported only once/Users/acid/Dropbox/code/platformExpert/main.c:29: error: for each function it appears in.)2(22@76"Format '%.2x' expects type 'unsigned int', but argument 2 has type 'UInt8 *'347510036#68#137#0(6@46"/Users/acid/Dropbox/code/platformExpert/main.c347510027#28#0#28#0#56"format '*' expects type '*', but argument * has type '*'0(4@46"'byte' undeclared (first use in this function)347510036#205#105#0(6@46"/Users/acid/Dropbox/code/platformExpert/main.c347510027#29#0#29#0#43"'*' undeclared (first use in this function)0(0#0#46"/Users/acid/Dropbox/code/platformExpert/main.c4541386384#1443"    cd /Users/acid/Dropbox/code/platformExpert    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-generated-files.hmap -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-own-target-headers.hmap -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-all-target-headers.hmap -iquote /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/platformExpert-project-headers.hmap -F/Users/acid/Dropbox/code/platformExpert/build/Release -I/Users/acid/Dropbox/code/platformExpert/build/Release/include -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/DerivedSources/x86_64 -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/DerivedSources -c /Users/acid/Dropbox/code/platformExpert/main.c -o /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/main.o1#
+
+CCreateUniversalBinary /Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert normal "x86_64 i386 ppc"
+s347509891.488324
+e347509891.499809
+r1
+xCreateUniversalBinary
+x/Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@75"CreateUniversalBinary build/Release/platformExpert normal "x86_64 i386 ppc"347509891#347509891#0(0"0(0#0#55"/Users/acid/Dropbox/code/platformExpert/x86_64 i386 ppc4539137680#544"    cd /Users/acid/Dropbox/code/platformExpert    /usr/bin/lipo -create /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/platformExpert /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/platformExpert /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/platformExpert -output /Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert0#
+
+CGenerateDSYMFile /Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert.dSYM /Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert
+s347509891.499949
+e347509891.568801
+r1
+xGenerateDSYMFile
+x/Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert.dSYM
+x/Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert
+lSLF07#2@79"GenerateDSYMFile build/Release/platformExpert.dSYM build/Release/platformExpert347509891#347509891#0(0"0(0#0#68"/Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert4539137680#225"    cd /Users/acid/Dropbox/code/platformExpert    /Developer/usr/bin/dsymutil /Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert -o /Users/acid/Dropbox/code/platformExpert/build/Release/platformExpert.dSYM0#
+
+CLd /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/platformExpert normal i386
+s347509890.310394
+e347509890.531288
+r1
+xLd
+x/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/platformExpert
+xnormal
+xi386
+lSLF07#2@135"Link /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/platformExpert347509890#347509890#0(0"0(0#0#0"4539137680#640"    cd /Users/acid/Dropbox/code/platformExpert    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/acid/Dropbox/code/platformExpert/build/Release -F/Users/acid/Dropbox/code/platformExpert/build/Release -filelist /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/platformExpert.LinkFileList -mmacosx-version-min=10.5 -framework CoreFoundation -framework IOKit -o /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/i386/platformExpert0#
+
+CLd /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/platformExpert normal ppc
+s347509891.275511
+e347509891.488010
+r1
+xLd
+x/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/platformExpert
+xnormal
+xppc
+lSLF07#2@134"Link /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/platformExpert347509891#347509891#0(0"0(0#0#0"4539137680#637"    cd /Users/acid/Dropbox/code/platformExpert    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/acid/Dropbox/code/platformExpert/build/Release -F/Users/acid/Dropbox/code/platformExpert/build/Release -filelist /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/platformExpert.LinkFileList -mmacosx-version-min=10.5 -framework CoreFoundation -framework IOKit -o /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/ppc/platformExpert0#
+
+CLd /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/platformExpert normal x86_64
+s347509890.394280
+e347509890.523546
+r1
+xLd
+x/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/platformExpert
+xnormal
+xx86_64
+lSLF07#2@137"Link /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/platformExpert347509890#347509890#0(0"0(0#0#0"4539137680#646"    cd /Users/acid/Dropbox/code/platformExpert    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/acid/Dropbox/code/platformExpert/build/Release -F/Users/acid/Dropbox/code/platformExpert/build/Release -filelist /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/platformExpert.LinkFileList -mmacosx-version-min=10.5 -framework CoreFoundation -framework IOKit -o /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Release/platformExpert.build/Objects-normal/x86_64/platformExpert0#
+

@@ -1,0 +1,85 @@
+TplatformExpert
+v7
+r0
+t343354022.991543
+cCheck dependencies
+cCompileC build/platformExpert.build/Debug/platformExpert.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/platformExpert/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/acid/Dropbox/code/platformExpert/build/Debug/platformExpert normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004C23A0120000000000012048
+t1277403154
+s73800
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004CAA7405000000000003CE34
+t1286239237
+s249396
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E8E65FE000000000060E710
+t1317955070
+s6350608
+
+N/Users/acid/Dropbox/code/platformExpert/build/Debug/platformExpert
+t1321661222
+s9520
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Debug/platformExpert.build/Objects-normal/x86_64/main.o
+t1321661222
+s5776
+
+N/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Debug/platformExpert.build/Objects-normal/x86_64/platformExpert.LinkFileList
+c000000004EC6F326000000000000007B
+t1321661222
+s123
+
+N/Users/acid/Dropbox/code/platformExpert/main.c
+c000000004EC6F31E00000000000002D9
+t1321661214
+s729
+i<CoreFoundation/CoreFoundation.h>
+i<IOKit/IOKitLib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343354022#343354022#0(0"0(0#1#0"4515042624#0"0#
+
+CCompileC build/platformExpert.build/Debug/platformExpert.build/Objects-normal/x86_64/main.o /Users/acid/Dropbox/code/platformExpert/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s343354022.386688
+e343354022.937223
+r1
+xCompileC
+xbuild/platformExpert.build/Debug/platformExpert.build/Objects-normal/x86_64/main.o
+x/Users/acid/Dropbox/code/platformExpert/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/acid/Dropbox/code/platformExpert/main.c343354022#343354022#0(0"0(0#0#46"/Users/acid/Dropbox/code/platformExpert/main.c4515040912#1407"    cd /Users/acid/Dropbox/code/platformExpert    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Debug/platformExpert.build/platformExpert-generated-files.hmap -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Debug/platformExpert.build/platformExpert-own-target-headers.hmap -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Debug/platformExpert.build/platformExpert-all-target-headers.hmap -iquote /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Debug/platformExpert.build/platformExpert-project-headers.hmap -F/Users/acid/Dropbox/code/platformExpert/build/Debug -I/Users/acid/Dropbox/code/platformExpert/build/Debug/include -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Debug/platformExpert.build/DerivedSources/x86_64 -I/Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Debug/platformExpert.build/DerivedSources -c /Users/acid/Dropbox/code/platformExpert/main.c -o /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Debug/platformExpert.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/acid/Dropbox/code/platformExpert/build/Debug/platformExpert normal x86_64
+s343354022.937353
+e343354022.991471
+r1
+xLd
+x/Users/acid/Dropbox/code/platformExpert/build/Debug/platformExpert
+xnormal
+xx86_64
+lSLF07#2@71"Link /Users/acid/Dropbox/code/platformExpert/build/Debug/platformExpert343354022#343354022#0(0"0(0#0#0"4515040912#574"    cd /Users/acid/Dropbox/code/platformExpert    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/acid/Dropbox/code/platformExpert/build/Debug -F/Users/acid/Dropbox/code/platformExpert/build/Debug -filelist /Users/acid/Dropbox/code/platformExpert/build/platformExpert.build/Debug/platformExpert.build/Objects-normal/x86_64/platformExpert.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -o /Users/acid/Dropbox/code/platformExpert/build/Debug/platformExpert0#
+

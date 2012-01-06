@@ -1,0 +1,6 @@
+This is a work in progress
+
+Known Issues:
+
+Seg Faults on no parameters
+Does not return non binary keys
